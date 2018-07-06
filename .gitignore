@@ -3,6 +3,11 @@
 #####################################
 .vs/
 
+#####################################
+# Visual Studio user specific files #
+#####################################
+.codelite/
+
 ##########################
 # Unreal Generated Files #
 ##########################
@@ -17,3 +22,8 @@ BuildingEscape/Content/StarterContent/
 # VS Generated Files #
 ######################
 *.VC.db
+
+############################
+# Codelite Generated Files #
+############################
+*.db
