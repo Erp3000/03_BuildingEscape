@@ -12,16 +12,29 @@
 # Codelite user specific files #
 ################################
 .codelite/
+*.code-workspace
+*.workspace
+BuildingEscape/BuildingEscapeCodeCompletionFolders.txt
+BuildingEscape/BuildingEscapeCodeLitePreProcessor.txt
+BuildingEscape/BuildingEscapeConfig.pri
+BuildingEscape/BuildingEscapeDefines.pri
+BuildingEscape/BuildingEscapeHeader.pri
+BuildingEscape/BuildingEscapeIncludes.pri
+BuildingEscape/BuildingEscapeSource.pri
+BuildingEscape/CMakeLists.txt
+BuildingEscape/Makefile
 
 ################################
 # KDevelop user specific files #
 ################################
 .kdev4/
+*.kdev4
 
 #############################
 # Clion user specific files #
 #############################
 .idea/
+*.pro
 
 ##########################
 # Unreal Generated Files #
@@ -38,3 +51,4 @@ BuildingEscape/Content/StarterContent/HDRI
 ######################
 *.VC.db
 *.suo
+*.sln
