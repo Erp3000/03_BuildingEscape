@@ -59,6 +59,7 @@ void UGrabber::Grab() {
 			ComponentToGrab->GetOwner()->GetActorLocation(),
 			ComponentToGrab->GetOwner()->GetActorRotation()
 			);
+		
 	}
 }
 
